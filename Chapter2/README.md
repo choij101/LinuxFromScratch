@@ -4,7 +4,7 @@
 
 ---
 ### 2.2 Host System Requirements
-[version-check.sh](https://github.com/choij1589/LinuxFromScratch/blob/main/Chapter2/version-check.sh) 를 이용하여 host machine에 툴들이 있는지 검사한다.
+[version-check.sh](https://github.com/choij101/LinuxFromScratch/blob/main/Chapter2/version-check.sh) 를 이용하여 host machine에 툴들이 있는지 검사한다.
 >  Host machine을 Windows나 Mac OS를 사용하는 것도 가능할 것 같긴 한데, 여러 문제들을 마주칠 가능성이 높다. 최대한 Ubuntu나 Fedora같은 범용 OS를 사용하자. 나는 Fedora 36에서 LFS를 빌드하고 있다.
 
 다음은 스크립트를 돌린 결과이다.
