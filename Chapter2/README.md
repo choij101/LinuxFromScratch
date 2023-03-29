@@ -61,6 +61,7 @@ mkfs.ext4 /dev/sda3
 ---
 ### 2.6 Setting the $LSF Variable
 생성한 파티션을 마운드해 주자.
+> 이동식 하드디스크를 사용하는 경우, 디스크를 뻈다 껴면 디스크 레이블이 sda에서 sdb로 바뀌는 경우가 있다.
 ```bash
 # Create LFS variable, should be exported for every shell
 export LFS=/mnt/lfs

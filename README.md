@@ -8,4 +8,4 @@ contact: chlwls1589@gmail.com
 
 ---
 In this repository, I will store the codes and issues
-that has been used to build the LFS system.
+that has been used to build the LFS 11.2 system.
